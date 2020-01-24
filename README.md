@@ -1,4 +1,3 @@
-# git-prostock-test
 This is a ProStock Git Practice repository.
 
 In this tutorial, hoping to learn about how to deploy features safely and effectively.
